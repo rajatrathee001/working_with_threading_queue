@@ -80,6 +80,10 @@ class MyClass:
 # Create an object of the class
 my_object = MyClass()
 
+'''
+qwertyuiasdfghjk pill mee 
+
+'''
 # Wait for the queue to be empty before exiting the program
 # my_object.q.join()
 # my_object.Q
