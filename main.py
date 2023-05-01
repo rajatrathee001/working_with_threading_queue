@@ -81,9 +81,11 @@ class MyClass:
 my_object = MyClass()
 
 '''
-qwertyuiasdfghjk pill mee 
+qwertyuiasdfghjk pill mee   addmid more by develop
+
 
 '''
+
 # Wait for the queue to be empty before exiting the program
 # my_object.q.join()
 # my_object.Q
