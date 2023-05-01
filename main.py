@@ -85,7 +85,10 @@ qwertyuiasdfghjk pill mee   addmid more by develop
 
 
 '''
+"hyeee"
 
+
+"new funnnnnnn opop"
 # Wait for the queue to be empty before exiting the program
 # my_object.q.join()
 # my_object.Q
